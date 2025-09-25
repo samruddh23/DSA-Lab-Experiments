@@ -56,7 +56,7 @@ int main() {
     return 0;
 }
 
-
 Output:
 Enter infix expression: A*(B+C)/D
 Postfix: ABC+*D/
+
