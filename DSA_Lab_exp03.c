@@ -1,7 +1,8 @@
 Name: Samruddh Jadhav
-
-
-
+Roll No.20 
+Division: D10C
+Lab Experiment 3
+Aim: Implementation of Linear Queue Data Structure using array
 
 Code:
 #include <stdio.h>
@@ -151,3 +152,4 @@ Dequeued element: 36
 4. Display
 5. Exit
 Enter your choice (1-5): 5
+
